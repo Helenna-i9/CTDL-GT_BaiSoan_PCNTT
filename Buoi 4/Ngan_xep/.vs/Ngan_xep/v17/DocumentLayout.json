@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Other computers\\PChome\\DH\\UCL\\Phuc\\2.NAM HAI\\3.HK\\3. Cau truc du lieu va day thuat\\TH\\Buoi 4\\Ngan_xep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{308AB246-3EBF-417D-824B-8C0DB1BBF83F}|TH4\\TH4.csproj|g:\\other computers\\pchome\\dh\\ucl\\phuc\\2.nam hai\\3.hk\\3. cau truc du lieu va day thuat\\th\\buoi 4\\ngan_xep\\th4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308AB246-3EBF-417D-824B-8C0DB1BBF83F}|TH4\\TH4.csproj|solutionrelative:th4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Other computers\\PChome\\DH\\UCL\\Phuc\\2.NAM HAI\\3.HK\\3. Cau truc du lieu va day thuat\\TH\\Buoi 4\\Ngan_xep\\TH4\\Program.cs",
+              "RelativeDocumentMoniker": "TH4\\Program.cs",
+              "ToolTip": "G:\\Other computers\\PChome\\DH\\UCL\\Phuc\\2.NAM HAI\\3.HK\\3. Cau truc du lieu va day thuat\\TH\\Buoi 4\\Ngan_xep\\TH4\\Program.cs",
+              "RelativeToolTip": "TH4\\Program.cs",
+              "ViewState": "AgIAAJEAAAAAkpmZmZklwJ8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:47:14.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

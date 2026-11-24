@@ -1,0 +1,15 @@
+G:\Other computers\PChome\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\bin\Debug\TH4.exe.config
+G:\Other computers\PChome\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\bin\Debug\TH4.exe
+G:\Other computers\PChome\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\bin\Debug\TH4.pdb
+G:\Other computers\PChome\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\obj\Debug\TH4.csproj.AssemblyReference.cache
+G:\Other computers\PChome\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\obj\Debug\TH4.csproj.CoreCompileInputs.cache
+G:\Other computers\PChome\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\obj\Debug\TH4.exe
+G:\Other computers\PChome\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\obj\Debug\TH4.pdb
+G:\Other computers\PChome\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\obj\Debug\TH4.exe.config
+D:\phuc\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\bin\Debug\TH4.exe.config
+D:\phuc\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\bin\Debug\TH4.exe
+D:\phuc\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\bin\Debug\TH4.pdb
+D:\phuc\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\obj\Debug\TH4.csproj.AssemblyReference.cache
+D:\phuc\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\obj\Debug\TH4.csproj.CoreCompileInputs.cache
+D:\phuc\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\obj\Debug\TH4.exe
+D:\phuc\DH\UCL\Phuc\2.NAM HAI\3.HK\3. Cau truc du lieu va day thuat\TH\Buoi 4\Ngan_xep\TH4\obj\Debug\TH4.pdb

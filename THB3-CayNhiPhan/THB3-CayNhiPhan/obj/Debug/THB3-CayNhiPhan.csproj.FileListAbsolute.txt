@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\THB3-CayNhiPhan\THB3-CayNhiPhan\bin\Debug\THB3-CayNhiPhan.exe.config
+C:\Users\LENOVO\source\repos\THB3-CayNhiPhan\THB3-CayNhiPhan\bin\Debug\THB3-CayNhiPhan.exe
+C:\Users\LENOVO\source\repos\THB3-CayNhiPhan\THB3-CayNhiPhan\bin\Debug\THB3-CayNhiPhan.pdb
+C:\Users\LENOVO\source\repos\THB3-CayNhiPhan\THB3-CayNhiPhan\obj\Debug\THB3-CayNhiPhan.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\THB3-CayNhiPhan\THB3-CayNhiPhan\obj\Debug\THB3-CayNhiPhan.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\THB3-CayNhiPhan\THB3-CayNhiPhan\obj\Debug\THB3-CayNhiPhan.exe
+C:\Users\LENOVO\source\repos\THB3-CayNhiPhan\THB3-CayNhiPhan\obj\Debug\THB3-CayNhiPhan.pdb
